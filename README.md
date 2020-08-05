@@ -38,10 +38,9 @@
 
 <img src="https://github-readme-linkedin.vercel.app/user?username=csabatothdev" width="730" height="100" />
 <div align="center">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=csabatothdev&limit=10" width="450" height="700" />
-  <img src="https://github-readme-linkedin.vercel.app/education?username=csabatothdev" width="400" height="700" />
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=csabatothdev&limit=10" width="450" height="900" />
+  <img src="https://github-readme-linkedin.vercel.app/education?username=csabatothdev" width="400" height="900" />
 </div>
-<img src="https://github-readme-linkedin.vercel.app/skills?username=csabatothdev" width="730" height="100" />
 
 [website]: https://csaba.page
 [twitter]: https://twitter.com/tocsa2
