@@ -1,8 +1,6 @@
-### Csaba Toth
+# Csaba Toth
 
 [![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
-
-[![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
 
 ---
 
@@ -24,6 +22,10 @@
 - [Tensor Network](https://csaba.page/blog/tensor-network.html)
 - [Augmented Reality Map Application - part 2](https://csaba.page/blog/augmented-reality-follow-up.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
 
 ---
 
