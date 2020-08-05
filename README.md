@@ -30,6 +30,7 @@
 ---
 
 <img align="left" alt="Csaba Toth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true&hide_border=true" />
+<br/>
 
 ---
 
