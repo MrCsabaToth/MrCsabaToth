@@ -21,6 +21,11 @@
 - [Flutter Clock - My Submission](https://csaba.page/blog/flutter-clock-submission.html)
 - [Tensor Network](https://csaba.page/blog/tensor-network.html)
 - [Augmented Reality Map Application - part 2](https://csaba.page/blog/augmented-reality-follow-up.html)
+- [Valley DevFest 2019](https://csaba.page/blog/valley-devfest-2019.html)
+- [Augmented Reality Map Application - part 1](https://csaba.page/blog/augmented-reality-map.html)
+- [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
+- [On the side note of service availability](https://csaba.page/blog/service-availability.html)
+- [Preparing for Material Design transitions](https://csaba.page/blog/preparing-for-mdc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
