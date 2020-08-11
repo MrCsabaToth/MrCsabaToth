@@ -41,10 +41,10 @@
 
 ### LinkedIn
 
-<img src="https://github-readme-linkedin.vercel.app/user?username=csabatothdev" width="730" height="100" />
-<div align="center">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=csabatothdev&limit=10" width="450" height="1100" />
-  <img src="https://github-readme-linkedin.vercel.app/education?username=csabatothdev" width="400" height="700" />
+<img src="https://github-readme-linkedin.vercel.app/user?username=csabatothdev" style="max-width: 100%; height: auto;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center">
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=csabatothdev" style="max-width: 100%; height: auto; flex: 1 1 425px; flex: 0 1 425px" />
+  <img src="https://github-readme-linkedin.vercel.app/education?username=csabatothdev" style="max-width: 100%; height: auto; flex: 1 1 425px; flex: 0 1 425px" />
 </div>
 
 [website]: https://csaba.page
