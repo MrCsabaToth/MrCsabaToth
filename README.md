@@ -6,6 +6,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AndroidX Preference<wbr>Fragment<wbr>Compat scaffolded Shared<wbr>Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
 - [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 - [Sceneform AR physics experiment](https://csaba.page/blog/sceneform-ar-physics.html)
 - [All of my SceneForm AR projects started to crash with runtime exceptions](https://csaba.page/blog/sceneform-breaking-change.html)
@@ -25,7 +26,6 @@
 - [Augmented Reality Map Application - part 1](https://csaba.page/blog/augmented-reality-map.html)
 - [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
 - [On the side note of service availability](https://csaba.page/blog/service-availability.html)
-- [Preparing for Material Design transitions](https://csaba.page/blog/preparing-for-mdc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
