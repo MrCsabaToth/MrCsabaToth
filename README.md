@@ -57,7 +57,7 @@
   <br>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
   <br>
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCsabaToth&hide=html,css" />
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCsabaToth&hide=html,css&layout=compact" />
 </p>
 
 <!--
