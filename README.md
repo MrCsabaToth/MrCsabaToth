@@ -54,8 +54,7 @@
 
 [![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
 
-<p align="center">
-  <br>
+<p align="left">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
   <br>
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCsabaToth&hide=html,css&layout=compact" />
