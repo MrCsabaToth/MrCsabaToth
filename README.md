@@ -4,6 +4,28 @@
 
 ---
 
+### Projects worth mentioning:
+- [AMP perosnal website - Google Registry Website Competition Winner](https://gitlab.com/MrCsabaToth/mrcsabatoth.gitlab.io)
+- [ARPhysics - Physics simulations integrated into an Augmented Reality app to provide a unique fun expreience, uses Sceneform SDK & ARCore](https://github.com/CsabaConsulting/ARPhysics)
+- [DIY GPS Tracker application bundle to protect desired assets. Android applications with very uinque "bring your own" Firestore back-end philosophy](https://github.com/DIYGPSTracker)
+- [VFDWatchFace - Wear OS watch face with retro feeling and six complication slots, 3 color schemes](https://github.com/CsabaConsulting/VFDWatchFace)
+- [FlowerComplicationWatchFace - Wear OS watch face with seven complication slots](https://github.com/CsabaConsulting/FlowerComplicationWatchFace)
+- [360 VR website for joint GDG Fresno + TFC's (The Fresno Center) trip to Googleplex Mountain View and Computer History Museumm, updated multiple times with bug fixes to Google Web VR](https://github.com/gdgfresno/GoogleTrip2019)
+- [DevfestARMap - Android Augmented Reality application to help Valley Devfest 2019 conference attendees to orientate between the 5 class rooms at Bitwise South Stadium venue, uses Sceneform SDK & ARCore](https://github.com/gdgfresno/DevfestARMap)
+- [Deal-O-Round - Flutter based re-implementation of the PlayN-based Android/iOS/web based game with the same name https://play.google.com/store/apps/details?id=com.dealoround.android](https://github.com/CsabaConsulting/Deal-O-Round)
+- [360 VR website for joint GDG Fresno + EOC's (Economic Opportunities Commission Fresno) trip to Googleplex Mountain View and Computer History Museumm, updated multiple times with bug fixes to Google Web VR](https://github.com/gdgfresno/GoogleTrip2018)
+- [Detailed Google Chart examples](https://github.com/MrCsabaToth/GoogleChartsTalk)
+- [Valley DevFest 2018 conference website based on DeLorean-v2 Angular web application project, enriched with multiple authentication provider handling, extra session feedback, localization capability](https://github.com/gdgfresno/valleydevfest2018)
+- [Android companion app for Valley DevFest 2017 conference for the attendees to design and feature their Android avatar on the conference website, upgraded to AndroidX, ViewPager2, Firebase integration](https://github.com/gdgfresno/androidify-yourself)
+- [Valley DevFest 2017 conference website based on Hoverboard Polymer web application project, enriched with multiple authentication provider handling, extra session feedback, localization capability and a special page where conference attendees can design and feature their Android avatar (Polymer UI, also supported by an Android app)](https://github.com/ValleyDevFest2017/valleydevfest2017/commits/hoverboard-v2)
+- [Valley DevFest 2016 conference website based on Hoverboard Polymer web application project, Firebase hosting and back-end, enriched with multiple authentication provider handling, session feedback, Spanish, Arabic, Hmong and Armenian translations](https://github.com/ValleyDevFest2016/valleydevfest/tree/develop)
+- [California State University Fresno Earth Day 2016 Jekyll website with Disqus integration and photo carousel](https://bulldogearthday.github.io/)
+- [Progressive Web App for paperless booth visit checking, QR code reading and camera handling in a webapp](https://github.com/bulldogearthday/booths)
+- [Secure Open Enterprise Master Patient Index: privacy preserving multi-party record linkage implementation, won Homer R. Warner Award at AMIA Annual Symposium](https://github.com/MrCsabaToth/SOEMPI)
+- [A version of Fairplay software for 2-party SMC (Secure Multi-party Computation) which is really able to handle arbitrarily long integers](https://github.com/MrCsabaToth/FairplayBI)
+
+---
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [AndroidX Preference<wbr>Fragment<wbr>Compat scaffolded Shared<wbr>Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
