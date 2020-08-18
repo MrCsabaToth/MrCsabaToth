@@ -34,19 +34,9 @@
 
 ---
 
-<div class="d-flex>
 <img align="left" alt="Csaba Toth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true&hide_border=true" />
-</div>
 
 ---
-
-### LinkedIn
-
-<img src="https://github-readme-linkedin.vercel.app/user?username=csabatothdev" width="730" height="100" />
-<div align="top">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=csabatothdev&limit=10" width="450" height="1100" />
-  <img src="https://github-readme-linkedin.vercel.app/education?username=csabatothdev" width="400" height="700" />
-</div>
 
 [website]: https://csaba.page
 [twitter]: https://twitter.com/tocsa2
