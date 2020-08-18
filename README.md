@@ -1,4 +1,4 @@
-# Csaba Toth
+# Csaba Toth - senior software engineer, remte team lead, tech lead, public speaker, tech meetup enthusiast
 
 [![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
 
@@ -54,13 +54,13 @@
 
 [![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
 
----
-
 <img align="left" alt="Csaba Toth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true&hide_border=true" />
 
----
 
+
+<!--
 [website]: https://csaba.page
 [twitter]: https://twitter.com/tocsa2
 [linkedin]: https://linkedin.com/in/csabatothdev/
 [instagram]: https://instagram.com/MrCsabaToth
+-->
