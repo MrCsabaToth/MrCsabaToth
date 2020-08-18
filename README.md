@@ -52,8 +52,9 @@
 
 ---
 
+[![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
+
 <p align="center">
-  [![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
   <br>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
   <br>
