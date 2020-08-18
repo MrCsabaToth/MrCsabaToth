@@ -1,4 +1,4 @@
-# Csaba Toth - senior software engineer, remte team lead, tech lead, public speaker, tech meetup enthusiast
+# Csaba Toth - senior software engineer, remote team lead, tech lead, public speaker, tech meetup enthusiast
 
 [![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
 
