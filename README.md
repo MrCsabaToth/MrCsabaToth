@@ -2,6 +2,14 @@
 
 [![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
 
+[![Twitter Badge](https://img.shields.io/badge/-tocsa2-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/tocsa2/)](https://twitter.com/moshfiqrony/)
+[![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/csabatothdev/)
+[![Instagram Badge](https://img.shields.io/badge/-MrCsabaToth-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/MrCsabaToth/)](https://instagram.com/MrCsabaToth)
+[![GitHub Badge](https://img.shields.io/badge/-MrCsabaToth-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MrCsabaToth/)](https://github.com/MrCsabaToth/)
+[![GitLab Badge](https://img.shields.io/badge/-MrCsabaToth-orange?style=for-the-badge&logo=Gitlab&logoColor=white&link=https://gitlab.com/MrCsabaToth/)](https://gitlab.com/MrCsabaToth/)
+[![StackOverflow Badge](https://img.shields.io/badge/-csabatoth-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/292502/csaba-toth)](https://stackoverflow.com/users/292502/csaba-toth)
+[![StackExchange Badge](https://img.shields.io/badge/-csabatoth-1E5297?style=for-the-badge&logo=Stack-Exchange&logoColor=white&link=https://stackexchange.com/users/110558/csaba-toth)](https://stackexchange.com/users/110558/csaba-toth)
+
 ---
 
 ### Latest Blog Posts
