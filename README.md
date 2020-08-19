@@ -5,10 +5,52 @@
 [![Twitter Badge](https://img.shields.io/badge/-tocsa2-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/tocsa2/)](https://twitter.com/moshfiqrony/)
 [![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/csabatothdev/)
 [![Instagram Badge](https://img.shields.io/badge/-MrCsabaToth-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/MrCsabaToth/)](https://instagram.com/MrCsabaToth)
-[![GitHub Badge](https://img.shields.io/badge/-MrCsabaToth-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MrCsabaToth/)](https://github.com/MrCsabaToth/)
 [![GitLab Badge](https://img.shields.io/badge/-MrCsabaToth-orange?style=for-the-badge&logo=Gitlab&logoColor=white&link=https://gitlab.com/MrCsabaToth/)](https://gitlab.com/MrCsabaToth/)
+[![GitHub Badge](https://img.shields.io/badge/-MrCsabaToth-black?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MrCsabaToth/)](https://github.com/MrCsabaToth/)
 [![StackOverflow Badge](https://img.shields.io/badge/-csabatoth-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/292502/csaba-toth)](https://stackoverflow.com/users/292502/csaba-toth)
 [![StackExchange Badge](https://img.shields.io/badge/-csabatoth-1E5297?style=for-the-badge&logo=Stack-Exchange&logoColor=white&link=https://stackexchange.com/users/110558/csaba-toth)](https://stackexchange.com/users/110558/csaba-toth)
+
+---
+
+- I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=for-the-badge&logo=Python)
+  ![C#](https://img.shields.io/badge/-C#-orange?style=for-the-badge&logo=c-sharp)
+  ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter)
+  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=for-the-badge&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=for-the-badge&logo=android-studio)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=for-the-badge&logo=pycharm)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-green?style=for-the-badge&logo=visual-studio)
+- I work using:
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django)
+  ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-orange?style=for-the-badge&logo=asp-net-mvc)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=for-the-badge&logo=mysql)
+  ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+  ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?style=for-the-badge&logo=gcp)
+  ![Linode](https://img.shields.io/badge/Linode-green?style=for-the-badge&logo=linode)
+  ![Slack](https://img.shields.io/badge/Slack-red?style=for-the-badge&logo=slack)
+- I also use:
+  ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+  ![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=Firestore)
+  ![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=for-the-badge&logo=java)
+  ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=for-the-badge&logo=kotlin)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+- I am also proficient:
+  ![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=for-the-badge&logo=bigquery)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+- Learning about about:
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=for-the-badge&logo=machine-learning)
+  ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 ---
 
