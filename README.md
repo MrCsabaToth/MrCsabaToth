@@ -56,6 +56,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
 - [AndroidX Preference<wbr>Fragment<wbr>Compat scaffolded Shared<wbr>Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
 - [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 - [Sceneform AR physics experiment](https://csaba.page/blog/sceneform-ar-physics.html)
@@ -75,7 +76,6 @@
 - [Valley DevFest 2019](https://csaba.page/blog/valley-devfest-2019.html)
 - [Augmented Reality Map Application - part 1](https://csaba.page/blog/augmented-reality-map.html)
 - [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
-- [On the side note of service availability](https://csaba.page/blog/service-availability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
