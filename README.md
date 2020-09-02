@@ -56,6 +56,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
 - [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
 - [AndroidX Preference<wbr>Fragment<wbr>Compat scaffolded Shared<wbr>Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
@@ -76,6 +77,10 @@
 - [Augmented Reality Map Application - part 2](https://csaba.page/blog/augmented-reality-follow-up.html)
 - [Valley DevFest 2019](https://csaba.page/blog/valley-devfest-2019.html)
 - [Augmented Reality Map Application - part 1](https://csaba.page/blog/augmented-reality-map.html)
+- [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
+- [On the side note of service availability](https://csaba.page/blog/service-availability.html)
+- [Preparing for Material Design transitions](https://csaba.page/blog/preparing-for-mdc.html)
+- [Optimizing Images for your Website](https://csaba.page/blog/image-optimization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
