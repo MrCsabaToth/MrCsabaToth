@@ -81,6 +81,7 @@
 ---
 
 ### Projects worth mentioning:
+- [Deal-O-Round - Flutter based reimplementation of a PlayN-based Android + iOS + web ported game](https://play.google.com/store/apps/details?id=com.dealoround.android) ([repository](https://github.com/DealORound/Deal-O-Round))
 - [AMP perosnal website - Google Registry Website Competition Winner](https://csaba.page) ([repository](https://gitlab.com/MrCsabaToth/mrcsabatoth.gitlab.io))
 - [ARPhysics - Physics simulations integrated into an Augmented Reality app to provide a unique fun expreience, uses Sceneform SDK & ARCore](https://play.google.com/store/apps/details?id=dev.csaba.arphysics) ([repository](https://github.com/CsabaConsulting/ARPhysics))
 - [DIY GPS Tracker application bundle to protect desired assets. Android applications with very uinque "bring your own" Firestore back-end philosophy](https://github.com/DIYGPSTracker) ([repositories](https://github.com/DIYGPSTracker))
@@ -88,7 +89,6 @@
 - [FlowerComplicationWatchFace - Wear OS watch face with seven complication slots](https://play.google.com/store/apps/details?id=dev.csaba.complicationflowerwatchface) ([repository](https://github.com/CsabaConsulting/FlowerComplicationWatchFace))
 - [360 Virtual Reality website for the joint GDG Fresno + TFC's (The Fresno Center) trip to Googleplex Mountain View and Computer History Museumm](https://gdgfresno.github.io/googletrip2019/) ([repository](https://github.com/gdgfresno/GoogleTrip2019))
 - [DevfestARMap - Android Augmented Reality application to help Valley Devfest 2019 conference attendees to orientate between the 5 class rooms at Bitwise South Stadium venue, uses Sceneform SDK & ARCore](https://github.com/gdgfresno/DevfestARMap) ([repository](https://github.com/gdgfresno/DevfestARMap))
-- [Deal-O-Round - Flutter based re-implementation of the PlayN-based Android/iOS/web based game with the same name, in progress, the store listing is still the old PlayN version](https://play.google.com/store/apps/details?id=com.dealoround.android) ([repository](https://github.com/CsabaConsulting/Deal-O-Round))
 - [360 Virtual Reality website for joint GDG Fresno + EOC's (Economic Opportunities Commission Fresno) trip to Googleplex Mountain View and Computer History Museumm](gdgfresno.github.io/googletrip2018/) [updated multiple times with bug fixes to Google Web VR](https://github.com/MrCsabaToth/magicvr/commits/gh-pages) ([repository](https://github.com/gdgfresno/GoogleTrip2018))
 - [Detailed Google Chart examples](http://mrcsabatoth.github.io/GoogleChartsTalk/) ([repository](https://github.com/MrCsabaToth/GoogleChartsTalk))
 - [Valley DevFest 2018 conference website based on DeLorean-v2 Angular web application project, enriched with multiple authentication provider handling, extra session feedback, localization capability](https://github.com/gdgfresno/valleydevfest2018)
