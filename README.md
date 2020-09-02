@@ -25,7 +25,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=flat-square&logo=visual-studio)
 - I work using:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
-  ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-orange?style=flat-square&logo=asp-net-mvc)
+  ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-orange?style=flat-square&logo=asp-net)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
   ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
   ![Azure](https://img.shields.io/badge/Azure-232F7E?style=flat-square&logo=microsoft-azure)
