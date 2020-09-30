@@ -86,6 +86,7 @@
 ---
 
 ### Projects worth mentioning:
+- [Track My Indoor Workout - Flutter app for recording indoor exercises with generated GPS data (based on speed readings) by connecting to the eqipment through Bluetooth LE](https://play.google.com/store/apps/details?id=dev.csaba.track_my_indoor_exercise) ([website](https://trackmyindoorworkout.github.io/))
 - [Deal-O-Round - Flutter based reimplementation of a PlayN-based Android + iOS + web ported game](https://play.google.com/store/apps/details?id=com.dealoround.android) ([repository](https://github.com/DealORound/Deal-O-Round))
 - [AMP perosnal website - Google Registry Website Competition Winner](https://csaba.page) ([repository](https://gitlab.com/MrCsabaToth/mrcsabatoth.gitlab.io))
 - [ARPhysics - Physics simulations integrated into an Augmented Reality app to provide a unique fun expreience, uses Sceneform SDK & ARCore](https://play.google.com/store/apps/details?id=dev.csaba.arphysics) ([repository](https://github.com/CsabaConsulting/ARPhysics))
