@@ -56,6 +56,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
 - [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
@@ -80,7 +81,6 @@
 - [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
 - [On the side note of service availability](https://csaba.page/blog/service-availability.html)
 - [Preparing for Material Design transitions](https://csaba.page/blog/preparing-for-mdc.html)
-- [Optimizing Images for your Website](https://csaba.page/blog/image-optimization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
