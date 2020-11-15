@@ -56,6 +56,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Schwinn IC4 / IC8 and Bowflex C6 support](https://csaba.page/blog/schwinn-ic4-ic8-bowflex-c6-support.html)
 - [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
@@ -80,7 +81,6 @@
 - [Augmented Reality Map Application - part 1](https://csaba.page/blog/augmented-reality-map.html)
 - [Joint TFC - GDG GooglePlex visit](https://csaba.page/blog/tfc-gdg-google-trip-recap.html)
 - [On the side note of service availability](https://csaba.page/blog/service-availability.html)
-- [Preparing for Material Design transitions](https://csaba.page/blog/preparing-for-mdc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
