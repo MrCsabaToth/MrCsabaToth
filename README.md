@@ -57,7 +57,7 @@
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Supporting more exercise equipment](https://csaba.page/blog/ios-and-eqipment-support.html)
-- [The "Joy" of Production Only Bugs](https://csaba.page/blog/release-only-bugs.html)
+- [The Joy of Production Only Bugs](https://csaba.page/blog/release-only-bugs.html)
 - [Schwinn IC4 / IC8 and Bowflex C6 support](https://csaba.page/blog/schwinn-ic4-ic8-bowflex-c6-support.html)
 - [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
