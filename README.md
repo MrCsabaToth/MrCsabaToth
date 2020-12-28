@@ -56,6 +56,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MPower Echelon2 Import with Aerodynamic Drag Calculations](https://csaba.page/blog/mpower-echelon2-import-kom-aerodynamic-drag.html)
 - [Schwinn AC Performance Plus Support](https://csaba.page/blog/schwinn-ac-performance-plus-support.html)
 - [Chrome Dev Summit and Website Changes](https://csaba.page/blog/chrome-dev-summit-amp.html)
 - [Supporting more exercise equipment](https://csaba.page/blog/ios-and-eqipment-support.html)
@@ -80,7 +81,6 @@
 - [DevFest on demand 2019](https://csaba.page/blog/devfest-on-demand.html)
 - [Flutter Clock - My Submission](https://csaba.page/blog/flutter-clock-submission.html)
 - [Tensor Network](https://csaba.page/blog/tensor-network.html)
-- [Augmented Reality Map Application - part 2](https://csaba.page/blog/augmented-reality-follow-up.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
