@@ -56,6 +56,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
+- [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 - [The Dreaded Missing<wbr>Plugin<wbr>Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
 - [MPower Echelon2 Import with Aerodynamic Drag Calculations](https://csaba.page/blog/mpower-echelon2-import-kom-aerodynamic-drag.html)
 - [Schwinn AC Performance Plus Support](https://csaba.page/blog/schwinn-ac-performance-plus-support.html)
@@ -79,8 +81,6 @@
 - [The website is redesigned and converted to AMP](https://csaba.page/blog/the-website-uses-amp.html)
 - [WearOS Watch Faces](https://csaba.page/blog/wearos-watch-faces.html)
 - [Flutter Clock - Submission Follow Up](https://csaba.page/blog/flutter-clock-follow-up.html)
-- [DevFest on demand 2019](https://csaba.page/blog/devfest-on-demand.html)
-- [Flutter Clock - My Submission](https://csaba.page/blog/flutter-clock-submission.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
