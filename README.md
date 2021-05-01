@@ -56,6 +56,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
+- [Crypto Currency Sustainability and consensus algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
 - [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 - [The Dreaded Missing<wbr>Plugin<wbr>Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
@@ -79,8 +81,6 @@
 - [AMP website improvements](https://csaba.page/blog/amp-site-improvements.html)
 - [Measurements of the new AMP website](https://csaba.page/blog/amp-version-measurements.html)
 - [The website is redesigned and converted to AMP](https://csaba.page/blog/the-website-uses-amp.html)
-- [WearOS Watch Faces](https://csaba.page/blog/wearos-watch-faces.html)
-- [Flutter Clock - Submission Follow Up](https://csaba.page/blog/flutter-clock-follow-up.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
