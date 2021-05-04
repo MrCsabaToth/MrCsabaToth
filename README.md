@@ -57,7 +57,7 @@
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
-- [Crypto Currency Sustainability and consensus algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
+- [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
 - [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 - [The Dreaded Missing<wbr>Plugin<wbr>Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
