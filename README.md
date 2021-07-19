@@ -56,6 +56,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Merged Flutter Plugins Pull Request](https://csaba.page/blog/my-first-merged-flutter-plugins-pull-request.html)
+- [Lessons Learned About Flutter Dart Null Safety](https://csaba.page/blog/flutter-dart-sound-null-safety.html)
 - [A COVID Story](https://csaba.page/blog/a-covid-story.html)
 - [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
 - [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
@@ -79,8 +81,6 @@
 - [Do-It-Yourself GPS Tracker and Manager](https://csaba.page/blog/diy-gps-tracker.html)
 - [Google Custom Search Engine on an AMP website](https://csaba.page/blog/amp-google-custom-search-engine.html)
 - [AMP website cookie consent and further tuning](https://csaba.page/blog/amp-site-tuning.html)
-- [AMP website improvements](https://csaba.page/blog/amp-site-improvements.html)
-- [Measurements of the new AMP website](https://csaba.page/blog/amp-version-measurements.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
