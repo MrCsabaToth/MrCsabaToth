@@ -2,7 +2,7 @@
 
 [![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
 
-[![Twitter Badge](https://img.shields.io/badge/-tocsa2-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/tocsa2/)](https://twitter.com/moshfiqrony/)
+[![Twitter Badge](https://img.shields.io/badge/-tocsa2-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/tocsa2/)](https://twitter.com/tocsa2/)
 [![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/csabatothdev/)
 [![Instagram Badge](https://img.shields.io/badge/-MrCsabaToth-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/MrCsabaToth/)](https://instagram.com/MrCsabaToth)
 [![GitLab Badge](https://img.shields.io/badge/-MrCsabaToth-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/MrCsabaToth/)](https://gitlab.com/MrCsabaToth/)
