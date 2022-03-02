@@ -56,11 +56,17 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Flutter SDK via Snap or Brew](https://csaba.page/blog/flutter-sdk-install-via-snap-or-brew.html)
+- [SUUNTO, Under Armour Integrations and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
+- [Flutter V1 vs V2 Embedding, deprecated Android APIs and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
+- [My First Merged Flutter Plugins Pull Request](https://csaba.page/blog/my-first-merged-flutter-plugins-pull-request.html)
+- [Lessons Learned About Flutter Dart Null Safety](https://csaba.page/blog/flutter-dart-sound-null-safety.html)
+- [A COVID Story](https://csaba.page/blog/a-covid-story.html)
 - [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
 - [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
 - [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
-- [The Dreaded Missing<wbr>Plugin<wbr>Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
+- [The Dreaded Missing&lt;wbr&gt;Plugin&lt;wbr&gt;Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
 - [MPower Echelon2 Import with Aerodynamic Drag Calculations](https://csaba.page/blog/mpower-echelon2-import-kom-aerodynamic-drag.html)
 - [Schwinn AC Performance Plus Support](https://csaba.page/blog/schwinn-ac-performance-plus-support.html)
 - [Chrome Dev Summit and Website Changes](https://csaba.page/blog/chrome-dev-summit-amp.html)
@@ -71,16 +77,10 @@
 - [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
 - [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
-- [AndroidX Preference<wbr>Fragment<wbr>Compat scaffolded Shared<wbr>Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
+- [AndroidX Preference&lt;wbr&gt;Fragment&lt;wbr&gt;Compat scaffolded Shared&lt;wbr&gt;Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
 - [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 - [Sceneform AR physics experiment](https://csaba.page/blog/sceneform-ar-physics.html)
 - [All of my SceneForm AR projects started to crash with runtime exceptions](https://csaba.page/blog/sceneform-breaking-change.html)
-- [Do-It-Yourself GPS Tracker and Manager](https://csaba.page/blog/diy-gps-tracker.html)
-- [Google Custom Search Engine on an AMP website](https://csaba.page/blog/amp-google-custom-search-engine.html)
-- [AMP website cookie consent and further tuning](https://csaba.page/blog/amp-site-tuning.html)
-- [AMP website improvements](https://csaba.page/blog/amp-site-improvements.html)
-- [Measurements of the new AMP website](https://csaba.page/blog/amp-version-measurements.html)
-- [The website is redesigned and converted to AMP](https://csaba.page/blog/the-website-uses-amp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
