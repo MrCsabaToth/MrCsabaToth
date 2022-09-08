@@ -56,6 +56,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Right to Repair and Our Future](https://csaba.page/blog/the-right-to-repair-and-our-future.html)
+- [Going Open Source under GPLv3 but not being Google Dev Library worthy](https://csaba.page/blog/gplv3-open-source-but-not-google-dev-librayr-worthy.html)
 - [Installing Flutter SDK via Snap or Brew](https://csaba.page/blog/flutter-sdk-install-via-snap-or-brew.html)
 - [SUUNTO, Under Armour Integrations and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
 - [Flutter V1 vs V2 Embedding, deprecated Android APIs and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
@@ -81,6 +83,9 @@
 - [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 - [Sceneform AR physics experiment](https://csaba.page/blog/sceneform-ar-physics.html)
 - [All of my SceneForm AR projects started to crash with runtime exceptions](https://csaba.page/blog/sceneform-breaking-change.html)
+- [Do-It-Yourself GPS Tracker and Manager](https://csaba.page/blog/diy-gps-tracker.html)
+- [Google Custom Search Engine on an AMP website](https://csaba.page/blog/amp-google-custom-search-engine.html)
+- [AMP website cookie consent and further tuning](https://csaba.page/blog/amp-site-tuning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
