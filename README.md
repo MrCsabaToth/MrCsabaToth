@@ -56,6 +56,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Twitter is Being Destroyed Along With Countless Businesses and Lives](https://csaba.page/blog/how-twitter-is-being-destroyed-along-with-countless-businesses-and-lives.html)
+- [Google Maps Hackathon Prize Win and a New AR Tree Walk Guide](https://csaba.page/blog/google-maps-hackathon-prize-win-and-a-new-ar-tree-walk-guide.html)
 - [Policy aligning with the legacy of Aaron Swartz](https://csaba.page/blog/policy-aligning-with-the-legacy-of-aaron-swartz.html)
 - [Using Geospatial API for Augmented Reality Maps](https://csaba.page/blog/geospatial-api-with-terrain-anchors-for-augmented-reality-maps.html)
 - [The Right to Repair and Our Future](https://csaba.page/blog/the-right-to-repair-and-our-future.html)
@@ -84,8 +86,6 @@
 - [AndroidX Preference&lt;wbr&gt;Fragment&lt;wbr&gt;Compat scaffolded Shared&lt;wbr&gt;Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
 - [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 - [Sceneform AR physics experiment](https://csaba.page/blog/sceneform-ar-physics.html)
-- [All of my SceneForm AR projects started to crash with runtime exceptions](https://csaba.page/blog/sceneform-breaking-change.html)
-- [Do-It-Yourself GPS Tracker and Manager](https://csaba.page/blog/diy-gps-tracker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
