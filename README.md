@@ -47,7 +47,7 @@
   ![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=big-query)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-- Learning about about:
+- Learning about:
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=machine-learning)
   ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes)
