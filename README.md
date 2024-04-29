@@ -119,6 +119,8 @@
 <p align="left">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
   <br>
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=MrCsabaToth&border_radius=5&mode=weekly" />
+  <br>
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCsabaToth&hide=html,css&layout=compact" />
 </p>
 
