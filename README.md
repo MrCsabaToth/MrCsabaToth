@@ -104,7 +104,7 @@
 
 ---
 
-### Projects worth mentioning:
+### More projects worth mentioning:
 - [Track My Indoor Workout - Flutter app for recording exercises on smart fitness machines via Bluetooth LE connection; generating GPS data based on speed readings; Strava, MapMyFitness (Under Armor), SUUNTO, and Training Peaks integrations](https://play.google.com/store/apps/details?id=dev.csaba.track_my_indoor_exercise) ([repository](https://github.com/TrackMyIndoorWorkout/TrackMyIndoorWorkout) and [companion website](https://trackmyindoorworkout.github.io/))
 - [ARPhysics - Physics simulations integrated into an Augmented Reality app to provide a unique fun experience, uses Sceneform SDK & ARCore](https://play.google.com/store/apps/details?id=dev.csaba.arphysics) ([repository](https://github.com/CsabaConsulting/ARPhysics))
 - [DIY GPS Tracker application bundle to protect desired assets. Android applications with very unique "bring your own" Firestore back-end philosophy](https://github.com/DIYGPSTracker) ([repositories](https://github.com/DIYGPSTracker))
@@ -125,7 +125,7 @@
 
 ---
 
-### Latest Blog Posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How Twitter is Being Destroyed Along With Countless Businesses and Lives](https://csaba.page/blog/how-twitter-is-being-destroyed-along-with-countless-businesses-and-lives.html)
 - [My First Two Flutter Plugins and Track My Indoor Workout News](https://csaba.page/blog/my-first-two-flutter-plugins-and-track-my-indoor-workout-news.html)
