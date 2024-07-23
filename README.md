@@ -127,6 +127,8 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Red Teaming at the Samsung Developer Conference 23](https://csaba.page/blog/llm-red-teaming-at-the-samsung-developer-conference-23.html)
+- [Personalization is what I missed at the Samsung NextGen AI hackathon](https://csaba.page/blog/personalization-is-what-i-missed-at-samsung-next-gen-ai-multi-modal-hackathon.html)
 - [Intel Innovation 2023 Conference Generative AI Hackathons and Challenges](https://csaba.page/blog/intel-innovation-2023-conference-generative-ai-hackathons-and-challenges.html)
 - [The Downfall of Twitter from Behind the Scenes](https://csaba.page/blog/the-downfall-of-twitter-from-behind-the-scenes.html)
 - [My First Two Flutter Plugins and Track My Indoor Workout News](https://csaba.page/blog/my-first-two-flutter-plugins-and-track-my-indoor-workout-news.html)
@@ -155,8 +157,6 @@
 - [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 - [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
-- [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
-- [AndroidX Preference&lt;wbr&gt;Fragment&lt;wbr&gt;Compat scaffolded Shared&lt;wbr&gt;Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
