@@ -127,7 +127,9 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi Modal hackathon by Weaviate at AIx Innovation Summit and ODSC West 2023 Data Science Conference](https://csaba.page/blog/odsc-west-data-science-conference-aix-innovation-summit-multi-modal-hackathon.html)
+- [Chasing the Next Transformer Killer - Part 2](https://csaba.page/blog/chasing-the-next-transformer-killer-rwkv-an-underrated-llm.html)
+- [Chasing the Next Transformer Killer - Part 1](https://csaba.page/blog/chasing-the-next-transformer-killer-linear-transformer-reformer-performer.html)
+- [Multi-Modal hackathon by Weaviate at AIx Innovation Summit and ODSC West 2023 Data Science Conference](https://csaba.page/blog/odsc-west-data-science-conference-aix-innovation-summit-multi-modal-hackathon.html)
 - [LLM Red Teaming at the Samsung Developer Conference 23](https://csaba.page/blog/llm-red-teaming-at-the-samsung-developer-conference-23.html)
 - [Personalization is what I missed at the Samsung NextGen AI hackathon](https://csaba.page/blog/personalization-is-what-i-missed-at-samsung-next-gen-ai-multi-modal-hackathon.html)
 - [Intel Innovation 2023 Conference Generative AI Hackathons and Challenges](https://csaba.page/blog/intel-innovation-2023-conference-generative-ai-hackathons-and-challenges.html)
@@ -155,8 +157,6 @@
 - [Supporting more exercise equipment](https://csaba.page/blog/ios-and-eqipment-support.html)
 - [The Joy of Production Only Bugs](https://csaba.page/blog/release-only-bugs.html)
 - [Schwinn IC4 / IC8 and Bowflex C6 support](https://csaba.page/blog/schwinn-ic4-ic8-bowflex-c6-support.html)
-- [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
-- [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
