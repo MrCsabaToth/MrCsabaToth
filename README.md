@@ -130,6 +130,8 @@
 - [Chasing the Next Transformer Killer - Part 2](https://csaba.page/blog/chasing-the-next-transformer-killer-rwkv-an-underrated-llm.html)
 - [Chasing the Next Transformer Killer - Part 1](https://csaba.page/blog/chasing-the-next-transformer-killer-linear-transformer-reformer-performer.html)
 - [It Was DataFest Time Again](https://csaba.page/blog/it-was-datafest-time-again.html)
+- [No-code LLM Agent and RAG solution at Google Cloud Next 2024](https://csaba.page/blog/google-cloud-next-2024-agent-builder-hackathon.html)
+- [How I Could Have Won My First Kaggle Competition at Google Cloud Next 2024 in Las Vegas](https://csaba.page/blog/first-kaggle-competition-at-google-cloud-next-2024-las-vegas.html)
 - [LLM Knowledge agent with RAG Fusion on Cohere platform with LangChain and Streamlit](https://csaba.page/blog/llm-knowledge-agent-with-rag-fusion-on-cohere-langchain-streamlit.html)
 - [QBRAG &lpar;QnA Boosted RAG&rpar; with Vectara](https://csaba.page/blog/qbrag-qna-boosted-rag-with-vectara-hackathon.html)
 - [Multi-Modal hackathon by Weaviate at AIx Innovation Summit and ODSC West 2023 Data Science Conference](https://csaba.page/blog/odsc-west-data-science-conference-aix-innovation-summit-multi-modal-hackathon.html)
@@ -155,8 +157,6 @@
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 - [The Dreaded Missing&lt;wbr&gt;Plugin&lt;wbr&gt;Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
 - [MPower Echelon2 Import with Aerodynamic Drag Calculations](https://csaba.page/blog/mpower-echelon2-import-kom-aerodynamic-drag.html)
-- [Schwinn AC Performance Plus Support](https://csaba.page/blog/schwinn-ac-performance-plus-support.html)
-- [Chrome Dev Summit and Website Changes](https://csaba.page/blog/chrome-dev-summit-amp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
