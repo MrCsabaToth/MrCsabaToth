@@ -1,20 +1,51 @@
-### 👋 Hi, I'm Csaba
+# Hi, I'm Csaba Toth! 👋
 
-Experienced Full Stack Developer specializing in React & Python | Building scalable web solutions | Open source contributor
+## Full Stack Developer | React & Python Specialist
 
-#### 🛠️ Technical Toolkit
-- Frontend: React, TypeScript, Tailwind CSS
-- Backend: Python, Django, Node.js
-- DevOps: Docker, AWS, GitHub Actions
+I'm an experienced Full Stack Developer with a passion for building modern, scalable web applications. My expertise lies in crafting intuitive user interfaces with React and developing robust backend systems with Python.
 
-#### 🔥 Current Focus
-- Building performant full-stack applications
-- Optimizing developer workflows
-- Contributing to developer education content
+---
 
-#### 🏆 Featured Projects
-- [Django-Blog](https://github.com/MrCsabaToth/Django-Blog): Full-featured blogging platform with CMS capabilities
-- [React-Dashboard](https://github.com/MrCsabaToth/React-Dashboard): Interactive analytics dashboard with real-time data
+### 🛠️ Tech Stack
+
+**Frontend:**
+- React / React.js
+- JavaScript / TypeScript
+- HTML5 / CSS3
+- Tailwind CSS
+
+**Backend:**
+- Python
+- Django
+- REST APIs
+- SQL / PostgreSQL
+
+**Tools:**
+- Git / GitHub
+- Docker
+- AWS
+
+---
+
+### 📂 Featured Projects
+
+#### 1. Django-Blog
+A full-featured blogging platform built with Django, featuring user authentication, CRUD operations, and a responsive design.
+
+#### 2. React-Dashboard
+An interactive admin dashboard built with React, featuring data visualization, state management, and real-time updates.
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: csaba.toth@example.com
+- Portfolio: [Your Portfolio URL]
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
@@ -24,4 +55,6 @@ Experienced Full Stack Developer specializing in React & Python | Building scala
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCsabaToth&hide=html,css&layout=compact" />
 </p>
 
-Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/csabatoth/)
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
