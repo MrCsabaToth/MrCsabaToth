@@ -127,7 +127,19 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Twitter is Being Destroyed Along With Countless Businesses and Lives](https://csaba.page/blog/how-twitter-is-being-destroyed-along-with-countless-businesses-and-lives.html)
+- [Chasing the Next Transformer Killer - Part 2](https://csaba.page/blog/chasing-the-next-transformer-killer-rwkv-an-underrated-llm.html)
+- [Chasing the Next Transformer Killer - Part 1](https://csaba.page/blog/chasing-the-next-transformer-killer-linear-transformer-reformer-performer.html)
+- [No-Code Low-Code LLM Powered Quiz Game with FlutterFlow](https://csaba.page/blog/no-code-low-code-agent-builder-llm-rag-powred-quiz-game-flutterflow.html)
+- [It Was DataFest Time Again](https://csaba.page/blog/it-was-datafest-time-again.html)
+- [No-Code LLM Agent and RAG Solution at Google Cloud Next 2024](https://csaba.page/blog/google-cloud-next-2024-agent-builder-hackathon.html)
+- [How I Could Have Won My First Kaggle Competition at Google Cloud Next 2024 in Las Vegas](https://csaba.page/blog/first-kaggle-competition-at-google-cloud-next-2024-las-vegas.html)
+- [LLM Knowledge agent with RAG Fusion on Cohere platform with LangChain and Streamlit](https://csaba.page/blog/llm-knowledge-agent-with-rag-fusion-on-cohere-langchain-streamlit.html)
+- [QBRAG &lpar;QnA Boosted RAG&rpar; with Vectara](https://csaba.page/blog/qbrag-qna-boosted-rag-with-vectara-hackathon.html)
+- [Multi-Modal hackathon by Weaviate at AIx Innovation Summit and ODSC West 2023 Data Science Conference](https://csaba.page/blog/odsc-west-data-science-conference-aix-innovation-summit-multi-modal-hackathon.html)
+- [LLM Red Teaming at the Samsung Developer Conference 23](https://csaba.page/blog/llm-red-teaming-at-the-samsung-developer-conference-23.html)
+- [Personalization is what I missed at the Samsung NextGen AI hackathon](https://csaba.page/blog/personalization-is-what-i-missed-at-samsung-next-gen-ai-multi-modal-hackathon.html)
+- [Intel Innovation 2023 Conference Generative AI Hackathons and Challenges](https://csaba.page/blog/intel-innovation-2023-conference-generative-ai-hackathons-and-challenges.html)
+- [The Downfall of Twitter from Behind the Scenes](https://csaba.page/blog/the-downfall-of-twitter-from-behind-the-scenes.html)
 - [My First Two Flutter Plugins and Track My Indoor Workout News](https://csaba.page/blog/my-first-two-flutter-plugins-and-track-my-indoor-workout-news.html)
 - [Google Maps Hackathon Prize Win and a New AR Tree Walk Guide](https://csaba.page/blog/google-maps-hackathon-prize-win-and-a-new-ar-tree-walk-guide.html)
 - [Policy aligning with the legacy of Aaron Swartz](https://csaba.page/blog/policy-aligning-with-the-legacy-of-aaron-swartz.html)
@@ -145,18 +157,6 @@
 - [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 - [The Dreaded Missing&lt;wbr&gt;Plugin&lt;wbr&gt;Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
-- [MPower Echelon2 Import with Aerodynamic Drag Calculations](https://csaba.page/blog/mpower-echelon2-import-kom-aerodynamic-drag.html)
-- [Schwinn AC Performance Plus Support](https://csaba.page/blog/schwinn-ac-performance-plus-support.html)
-- [Chrome Dev Summit and Website Changes](https://csaba.page/blog/chrome-dev-summit-amp.html)
-- [Supporting more exercise equipment](https://csaba.page/blog/ios-and-eqipment-support.html)
-- [The Joy of Production Only Bugs](https://csaba.page/blog/release-only-bugs.html)
-- [Schwinn IC4 / IC8 and Bowflex C6 support](https://csaba.page/blog/schwinn-ic4-ic8-bowflex-c6-support.html)
-- [The Track My Indoor Workout Application](https://csaba.page/blog/track-my-indoor-exercise.html)
-- [Reimplementing the Deal-O-Round game in Flutter - part 2](https://csaba.page/blog/flutter-deal-o-round.html)
-- [Reimplementing the Deal-O-Round game in Flutter - part 1](https://csaba.page/blog/playn-deal-o-round.html)
-- [GitHub Profile README](https://csaba.page/blog/github-profile-readme.html)
-- [AndroidX Preference&lt;wbr&gt;Fragment&lt;wbr&gt;Compat scaffolded Shared&lt;wbr&gt;Preferences encrypted with Jetpack Security](https://csaba.page/blog/jetpack-security-shared-preferences.html)
-- [More Sceneform AR physics experiment](https://csaba.page/blog/ar-physics-progress.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
