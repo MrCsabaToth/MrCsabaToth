@@ -1,14 +1,10 @@
 # Csaba Toth - senior software engineer, remote team lead, public speaker, tech meetup enthusiast
 
-[![Csaba Toth StackExchange](https://stackexchange.com/users/flair/110558.png)](https://stackoverflow.com/users/292502/csaba-toth)
-
 [![Twitter Badge](https://img.shields.io/badge/-tocsa2-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/tocsa2/)](https://twitter.com/tocsa2/)
 [![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/csabatothdev/)
 [![Instagram Badge](https://img.shields.io/badge/-MrCsabaToth-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/MrCsabaToth/)](https://instagram.com/MrCsabaToth)
 [![GitLab Badge](https://img.shields.io/badge/-MrCsabaToth-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/MrCsabaToth/)](https://gitlab.com/MrCsabaToth/)
 [![GitHub Badge](https://img.shields.io/badge/-MrCsabaToth-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MrCsabaToth/)](https://github.com/MrCsabaToth/)
-[![StackOverflow Badge](https://img.shields.io/badge/-csabatoth-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/292502/csaba-toth)](https://stackoverflow.com/users/292502/csaba-toth)
-[![StackExchange Badge](https://img.shields.io/badge/-csabatoth-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white&link=https://stackexchange.com/users/110558/csaba-toth)](https://stackexchange.com/users/110558/csaba-toth)
 
 ---
 
@@ -226,8 +222,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-[![Csaba Toth StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=292502)](https://stackoverflow.com/users/292502/csaba-toth)
 
 <p align="left">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrCsabaToth&show_icons=true" />
