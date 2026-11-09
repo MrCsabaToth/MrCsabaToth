@@ -206,11 +206,12 @@
 - [Google Maps Hackathon Prize Win and a New AR Tree Walk Guide](https://csaba.page/blog/google-maps-hackathon-prize-win-and-a-new-ar-tree-walk-guide.html)
 - [Policy aligning with the legacy of Aaron Swartz](https://csaba.page/blog/policy-aligning-with-the-legacy-of-aaron-swartz.html)
 - [Using Geospatial API for Augmented Reality Maps](https://csaba.page/blog/geospatial-api-with-terrain-anchors-for-augmented-reality-maps.html)
+- [Meta Store Opening: VR Demos, Smart Glasses, and Campus Fitness Journey](https://csaba.page/blog/meta-store-opening-and-quest-demo.html)
 - [The Right to Repair and Our Future](https://csaba.page/blog/the-right-to-repair-and-our-future.html)
 - [Going Open Source under GPLv3 but not being Google Dev Library worthy](https://csaba.page/blog/gplv3-open-source-but-not-google-dev-librayr-worthy.html)
 - [Installing Flutter SDK via Snap or Brew](https://csaba.page/blog/flutter-sdk-install-via-snap-or-brew.html)
-- [SUUNTO, Under Armour Integrations and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
-- [Flutter V1 vs V2 Embedding, deprecated Android APIs and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
+- [SUUNTO, Under Armour Integrations, and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
+- [Flutter V1 vs V2 Embedding, Deprecated Android APIs, and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
 - [My First Merged Flutter Plugins Pull Request](https://csaba.page/blog/my-first-merged-flutter-plugins-pull-request.html)
 - [Lessons Learned About Flutter Dart Null Safety](https://csaba.page/blog/flutter-dart-sound-null-safety.html)
 - [A COVID Story](https://csaba.page/blog/a-covid-story.html)
@@ -218,7 +219,6 @@
 - [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
 - [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
 - [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
-- [The Dreaded Missing&lt;wbr&gt;Plugin&lt;wbr&gt;Exception](https://csaba.page/blog/the-dreaded-missing-plugin-exception.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
