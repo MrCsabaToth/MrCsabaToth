@@ -189,6 +189,8 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LlamaCon 2025, Space Llama, and the Cerebral Valley Hackathon](https://csaba.page/blog/llamacon-2025-space-llama-and-cerebral-valley-hackathon.html)
+- [Gemini API Developer Competition: Building OpenMMPA on Full Android Watches](https://csaba.page/blog/gemini-api-developer-competition-open-mmpa-on-full-android-watch.html)
 - [Chasing the Next Transformer Killer - Part 2](https://csaba.page/blog/chasing-the-next-transformer-killer-rwkv-an-underrated-llm.html)
 - [Chasing the Next Transformer Killer - Part 1](https://csaba.page/blog/chasing-the-next-transformer-killer-linear-transformer-reformer-performer.html)
 - [No-Code Low-Code LLM Powered Quiz Game with FlutterFlow](https://csaba.page/blog/no-code-low-code-agent-builder-llm-rag-powred-quiz-game-flutterflow.html)
@@ -217,8 +219,6 @@
 - [A COVID Story](https://csaba.page/blog/a-covid-story.html)
 - [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
 - [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
-- [Sceneform Good News](https://csaba.page/blog/sceneform-good-news.html)
-- [Flutter Missing Plugin and Crash Remedies](https://csaba.page/blog/flutter-android-crash-remedies.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
