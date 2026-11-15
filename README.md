@@ -189,6 +189,10 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS &amp; NVIDIA Hackathon 2025: Research-as-a-Code, UDR, and the $1,800 Cloud Bill](https://csaba.page/blog/aws-nvidia-agentic-ai-unleashed-research-as-a-code.html)
+- [WeaveHacks 2: Building ¡alacard!, the Self-Improving AI Agent Cookbook with Google ADK and W&amp;B Weave](https://csaba.page/blog/weavehacks-2-alacard-self-improving-agents.html)
+- [Gemma 3n Impact Challenge: Stigmergy ODEA, Edge AI Drone Swarms, and the $462.18 YOLO Mode Doom Loop](https://csaba.page/blog/gemma-3n-impact-challenge-stigmergy-odea-autonomous-drone-swarms.html)
+- [AI Expo SCSP Hackathon 2025: Outbreak Ops and the Public Health Sentinel](https://csaba.page/blog/scsp-hackathon-outbreak-ops-public-health-sentinel-langgraph.html)
 - [LlamaCon 2025, Space Llama, and the Cerebral Valley Hackathon](https://csaba.page/blog/llamacon-2025-space-llama-and-cerebral-valley-hackathon.html)
 - [Gemini API Developer Competition: Building OpenMMPA on Full Android Watches](https://csaba.page/blog/gemini-api-developer-competition-open-mmpa-on-full-android-watch.html)
 - [Chasing the Next Transformer Killer - Part 2](https://csaba.page/blog/chasing-the-next-transformer-killer-rwkv-an-underrated-llm.html)
@@ -208,17 +212,13 @@
 - [Google Maps Hackathon Prize Win and a New AR Tree Walk Guide](https://csaba.page/blog/google-maps-hackathon-prize-win-and-a-new-ar-tree-walk-guide.html)
 - [Policy aligning with the legacy of Aaron Swartz](https://csaba.page/blog/policy-aligning-with-the-legacy-of-aaron-swartz.html)
 - [Using Geospatial API for Augmented Reality Maps](https://csaba.page/blog/geospatial-api-with-terrain-anchors-for-augmented-reality-maps.html)
+- [Closed-Form Aerodynamics: Using Cardano&#39;s Formula for Cycling Power-to-Speed](https://csaba.page/blog/closed-form-aerodynamics-cardanos-formula-for-cycling.html)
 - [Meta Store Opening: VR Demos, Smart Glasses, and Campus Fitness Journey](https://csaba.page/blog/meta-store-opening-and-quest-demo.html)
 - [The Right to Repair and Our Future](https://csaba.page/blog/the-right-to-repair-and-our-future.html)
 - [Going Open Source under GPLv3 but not being Google Dev Library worthy](https://csaba.page/blog/gplv3-open-source-but-not-google-dev-librayr-worthy.html)
 - [Installing Flutter SDK via Snap or Brew](https://csaba.page/blog/flutter-sdk-install-via-snap-or-brew.html)
 - [SUUNTO, Under Armour Integrations, and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
 - [Flutter V1 vs V2 Embedding, Deprecated Android APIs, and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
-- [My First Merged Flutter Plugins Pull Request](https://csaba.page/blog/my-first-merged-flutter-plugins-pull-request.html)
-- [Lessons Learned About Flutter Dart Null Safety](https://csaba.page/blog/flutter-dart-sound-null-safety.html)
-- [A COVID Story](https://csaba.page/blog/a-covid-story.html)
-- [Proof of Capacity Story](https://csaba.page/blog/proof-of-capacity-story.html)
-- [Crypto Currency Sustainability and Consensus Algorithms](https://csaba.page/blog/crypto-currency-sustainability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
