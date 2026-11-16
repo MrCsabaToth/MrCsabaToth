@@ -189,7 +189,8 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS &amp; NVIDIA Hackathon 2025: Research-as-a-Code, UDR, and the $1,800 Cloud Bill](https://csaba.page/blog/aws-nvidia-agentic-ai-unleashed-research-as-a-code.html)
+- [Llama Lounge Snowflake Agentic Hackathon: BarackOllama, CrewAI, and the Golden Llama](https://csaba.page/blog/llama-lounge-snowflake-agentic-hackathon-barackollama.html)
+- [AWS &amp; NVIDIA Hackathon 2025: Research-as-a-Code, UDR, and the Big Cloud Bill](https://csaba.page/blog/aws-nvidia-agentic-ai-unleashed-research-as-a-code.html)
 - [WeaveHacks 2: Building ¡alacard!, the Self-Improving AI Agent Cookbook with Google ADK and W&amp;B Weave](https://csaba.page/blog/weavehacks-2-alacard-self-improving-agents.html)
 - [Gemma 3n Impact Challenge: Stigmergy ODEA, Edge AI Drone Swarms, and the $462.18 YOLO Mode Doom Loop](https://csaba.page/blog/gemma-3n-impact-challenge-stigmergy-odea-autonomous-drone-swarms.html)
 - [AI Expo SCSP Hackathon 2025: Outbreak Ops and the Public Health Sentinel](https://csaba.page/blog/scsp-hackathon-outbreak-ops-public-health-sentinel-langgraph.html)
@@ -218,7 +219,6 @@
 - [Going Open Source under GPLv3 but not being Google Dev Library worthy](https://csaba.page/blog/gplv3-open-source-but-not-google-dev-librayr-worthy.html)
 - [Installing Flutter SDK via Snap or Brew](https://csaba.page/blog/flutter-sdk-install-via-snap-or-brew.html)
 - [SUUNTO, Under Armour Integrations, and Other Enhancements](https://csaba.page/blog/suunto-under-armour-integrations.html)
-- [Flutter V1 vs V2 Embedding, Deprecated Android APIs, and Colliding Kotlin Versions](https://csaba.page/blog/flutter-v1-vs-v2-embedding-deprecated-android-apis-colliding-kotlin-versions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
