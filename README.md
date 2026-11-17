@@ -192,7 +192,7 @@
 - [Llama Lounge Snowflake Agentic Hackathon: BarackOllama, CrewAI, and the Golden Llama](https://csaba.page/blog/llama-lounge-snowflake-agentic-hackathon-barackollama.html)
 - [AWS &amp; NVIDIA Hackathon 2025: Research-as-a-Code, UDR, and the Big Cloud Bill](https://csaba.page/blog/aws-nvidia-agentic-ai-unleashed-research-as-a-code.html)
 - [WeaveHacks 2: Building ¡alacard!, the Self-Improving AI Agent Cookbook with Google ADK and W&amp;B Weave](https://csaba.page/blog/weavehacks-2-alacard-self-improving-agents.html)
-- [Gemma 3n Impact Challenge: Stigmergy ODEA, Edge AI Drone Swarms, and the $462.18 YOLO Mode Doom Loop](https://csaba.page/blog/gemma-3n-impact-challenge-stigmergy-odea-autonomous-drone-swarms.html)
+- [Gemma 3n Impact Challenge: Stigmergy ODEA, Edge AI Drone Swarms, and the Expensive YOLO Mode Doom Loop](https://csaba.page/blog/gemma-3n-impact-challenge-stigmergy-odea-autonomous-drone-swarms.html)
 - [AI Expo SCSP Hackathon 2025: Outbreak Ops and the Public Health Sentinel](https://csaba.page/blog/scsp-hackathon-outbreak-ops-public-health-sentinel-langgraph.html)
 - [LlamaCon 2025, Space Llama, and the Cerebral Valley Hackathon](https://csaba.page/blog/llamacon-2025-space-llama-and-cerebral-valley-hackathon.html)
 - [Gemini API Developer Competition: Building OpenMMPA on Full Android Watches](https://csaba.page/blog/gemini-api-developer-competition-open-mmpa-on-full-android-watch.html)
